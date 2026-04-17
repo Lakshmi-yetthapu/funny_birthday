@@ -263,7 +263,7 @@ function CakeScratchScene() {
 
         <div className={`scratch-layer${isCut ? " scratch-layer-cleared" : ""}`}>
           <div className={`birthday-message${isCut ? " birthday-message-visible" : ""}`}>
-            Happiiie birthday bubuu
+            Happiiie birthday duduu! 🎉🎂🎈
           </div>
           <canvas
             ref={canvasRef}
